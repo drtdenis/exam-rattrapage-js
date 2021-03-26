@@ -1,12 +1,12 @@
-function information(prenom, nom, age) 
+function information(prenom, nom, age,sexe) 
 {
   const majeur = 18;
 
   console.log("prenom: " + prenom);
   console.log("nom: " + nom);
   console.log("age: " + age);
-  //console.log()
-
+  //console.log("sexe" )
+  // if 
   let finalAge = age - majeur;
   
   if (finalAge > 0) {
