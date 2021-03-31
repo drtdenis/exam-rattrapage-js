@@ -1,3 +1,8 @@
+                      // correction apres le jour de rattapage
+                      
+// Ecrire une fonction sumAll qui prend comme paramètre un tableau de number
+// et retourne la somme de tous les nombres de ce tableau.
+
 let tab = [
     [ 4, 8],   //12
     [12, 118], //130
